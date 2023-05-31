@@ -1,0 +1,25 @@
+#formulario {
+    margin-top: 40px;
+}
+
+.mensagem-menor {
+    background-color: red;
+    color: black;
+    display: table;
+    text-transform: uppercase;
+    margin-left: 50px;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.mensagem-maior {
+    background-color: green;
+    color: #fff;
+    display: table;
+    text-transform: uppercase;
+    margin-left: 50px;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+}
